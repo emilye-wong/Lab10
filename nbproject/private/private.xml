@@ -3,14 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/dyadlows/Desktop/CPRG352/Lecture%20Demos/Demo10/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/dyadlows/Desktop/CPRG352/Lecture%20Demos/Demo10/src/java/dataaccess/NoteDB.java</file>
-            <file>file:/C:/Users/dyadlows/Desktop/CPRG352/Lecture%20Demos/Demo10/src/java/servlets/NoteServlet.java</file>
-            <file>file:/C:/Users/dyadlows/Desktop/CPRG352/Lecture%20Demos/Demo10/src/java/servlets/LoginServlet.java</file>
-            <file>file:/C:/Users/dyadlows/Desktop/CPRG352/Lecture%20Demos/Demo10/src/java/database/notesdb.sql</file>
-            <file>file:/C:/Users/dyadlows/Desktop/CPRG352/Lecture%20Demos/Demo10/src/java/services/NoteService.java</file>
-            <file>file:/C:/Users/dyadlows/Desktop/CPRG352/Lecture%20Demos/Demo10/src/java/filters/AuthenticationFilter.java</file>
-            <file>file:/C:/Users/dyadlows/Desktop/CPRG352/Lecture%20Demos/Demo10/src/java/models/User.java</file>
+            <file>file:/C:/Users/emily/Documents/NetBeansProjects/Lab10/src/java/filters/AuthenticationFilter.java</file>
         </group>
     </open-files>
 </project-private>
